@@ -3,6 +3,10 @@ SMFULibraries
 
 A collection of libraries for the SMFU.in web service
 
+API Version
+============
+Current API Version is 1.0, thus, all code in this repo is written to conform to version 1.0
+
 Acknowledgements
 ================
 
