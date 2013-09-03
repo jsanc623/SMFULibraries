@@ -7,5 +7,7 @@ Acknowledgements
 ================
 
 **Python Library**
+
 Author: Chad Heyne
+
 Project: chadheyne/smfu_python: chadheyne/smfu_python
