@@ -2,7 +2,7 @@
 
 require("SMFUShorten.php");
 
-$apiKey = "a449b5dd070a10be0fbffbef5cb2484888ac49e656272498833e3df3e92d86f7";
+$apiKey = "";
 $urlToShorten = "http://google.com";
 
 # Just the URL String
